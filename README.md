@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Guilherme Pinheiro, a <strong>Cross-Platform Developer</strong> (specialising in <strong>Full-Stack Development</strong>) currently studying for my 5th semester of my bachelor's degree in <strong>Software Engineering</strong> at the Federal University of Ceará (UFC).
+<p align="left">I'm Guilherme Pinheiro, a <strong>Software Engineer</strong> (specialising in <strong>Full-Stack Development</strong>) currently studying for my 6th semester of my bachelor's degree in <strong>Software Engineering</strong> at the Federal University of Ceará (UFC).
 
 I enjoy contributing to open source projects and expanding my knowledge. In 2022, I entered university and began my studies in programming. At university, I learned about the importance of designing systems that are intuitive and accessible to the user, as well as how software processes and their modelling contribute to quality and efficiency in project development.
 

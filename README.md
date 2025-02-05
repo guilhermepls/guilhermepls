@@ -47,7 +47,7 @@
 
 ###
 
-<p align="left">• Sports: I have a special interest in football and bodybuilding, which reinforce discipline, teamwork and resilience. <br>• Music: I play the guitar as a way of stimulating creativity and focus. <br>• Self-development: Studies in applied psychology and time management to improve productivity and leadership. <br>• Travelling: Interest in exploring new cultures, broadening world view and adaptability.</p>
+<p align="left">• Sports: I have a special interest in football and bodybuilding, which reinforce discipline, teamwork and resilience. <br>• Music: I play the guitar as a way of stimulating creativity and focus. <br>• Self-development: Studies in psychology and neuroscience to improve productivity and leadership. <br>• Travelling: Interest in exploring new cultures, broadening world view and adaptability.</p>
 
 ###
 
